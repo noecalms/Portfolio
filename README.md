@@ -1,7 +1,6 @@
-# Portfolio - Noé Calmes
+# Portfolio - Noé
 
 Welcome to my portfolio.
-Noecalmes.fr
 
 ## About
 
